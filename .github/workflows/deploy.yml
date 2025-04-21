@@ -1,8 +1,8 @@
 name: Deploy AWS Lambda-Test
 
 on:
-   #workflow_dispatch:
-   push:
+   workflow_dispatch:
+   #push:
     branches:
       - main
 
